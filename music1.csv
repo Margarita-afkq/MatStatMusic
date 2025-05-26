@@ -1,0 +1,1001 @@
+Age,Gender,Genre,Hours,Listening Time,Studying,Mood Improvement,Mood
+21,Male,Classical,3.6,Night,No,3,No
+37,Male,Country,1.8,All Day,No,3,Yes
+60,Female,R&B,1.9,Afternoon,Yes,2,Yes
+49,Prefer not to say,R&B,6.9,Evening,Yes,4,No
+45,Prefer not to say,Country,3.6,Night,Yes,5,Yes
+20,Male,R&B,2.2,Night,No,5,No
+35,Prefer not to say,Jazz,4.1,Morning,Yes,5,No
+15,Prefer not to say,R&B,7.1,Night,Yes,3,No
+45,Male,Country,7.6,Night,Yes,4,No
+21,Male,Classical,1.3,Morning,Yes,4,Yes
+39,Male,Electronic,4.3,Afternoon,No,3,Yes
+14,Non-binary,Rock,0.6,Evening,Yes,4,Yes
+30,Non-binary,Rock,0.9,Evening,Yes,4,No
+59,Female,Electronic,2.3,All Day,No,4,Yes
+51,Prefer not to say,Pop,3.5,Night,No,3,Yes
+41,Female,Rock,6.5,All Day,Yes,4,No
+49,Prefer not to say,Country,7.9,Evening,Yes,4,No
+24,Female,Hip-Hop,2.8,Afternoon,No,2,No
+31,Male,Pop,7.7,All Day,No,2,Yes
+23,Male,Jazz,0.9,Morning,Yes,3,No
+38,Female,Rock,4.6,Morning,Yes,5,No
+47,Prefer not to say,R&B,5.1,All Day,Yes,4,No
+54,Non-binary,Hip-Hop,7.9,Night,Yes,5,Yes
+34,Prefer not to say,R&B,1.9,Evening,Yes,1,Yes
+28,Male,Rock,4.6,Night,No,3,No
+40,Prefer not to say,Pop,5.3,Night,No,2,No
+23,Prefer not to say,R&B,5.1,Evening,No,5,No
+48,Male,Hip-Hop,7.9,Night,Yes,3,No
+21,Male,Electronic,6.4,Night,Yes,4,Yes
+33,Male,Electronic,5.3,All Day,No,2,Yes
+16,Male,Pop,1.7,All Day,Yes,5,No
+15,Prefer not to say,R&B,0.7,Night,Yes,4,No
+39,Prefer not to say,Hip-Hop,5.2,Morning,No,2,Yes
+20,Non-binary,Country,1.2,Evening,Yes,2,No
+55,Non-binary,Jazz,5.6,Afternoon,Yes,4,No
+18,Female,Electronic,4.1,Morning,No,5,Yes
+44,Prefer not to say,Electronic,2.4,All Day,Yes,5,Yes
+22,Female,Hip-Hop,6.4,Evening,Yes,2,No
+29,Non-binary,Pop,5.0,Morning,Yes,3,No
+14,Male,Country,1.9,Morning,Yes,5,No
+50,Female,Pop,2.3,Evening,Yes,4,No
+31,Male,Jazz,1.8,Afternoon,Yes,3,Yes
+50,Male,R&B,5.2,Afternoon,Yes,4,No
+32,Non-binary,Country,1.2,Morning,Yes,1,Yes
+58,Prefer not to say,Jazz,5.0,All Day,No,5,Yes
+21,Male,Classical,6.4,Afternoon,No,3,Yes
+51,Non-binary,Electronic,2.1,All Day,No,4,Yes
+38,Non-binary,Hip-Hop,6.1,All Day,Yes,1,No
+27,Female,Country,2.0,Morning,No,1,Yes
+47,Male,Country,0.6,Night,No,3,No
+36,Male,Hip-Hop,3.2,All Day,Yes,3,Yes
+39,Non-binary,Electronic,3.6,Evening,Yes,1,No
+41,Female,R&B,4.4,Evening,Yes,1,No
+43,Non-binary,R&B,6.4,Morning,No,3,Yes
+52,Prefer not to say,Jazz,6.3,Afternoon,No,1,Yes
+42,Male,Pop,1.0,Night,Yes,5,Yes
+28,Male,Rock,1.7,Afternoon,Yes,2,Yes
+59,Prefer not to say,Electronic,4.8,Morning,Yes,5,Yes
+27,Female,Electronic,5.2,Morning,Yes,5,Yes
+26,Prefer not to say,Rock,5.4,Morning,No,1,Yes
+60,Male,Rock,1.7,Afternoon,Yes,2,No
+46,Non-binary,Pop,1.9,Evening,Yes,5,Yes
+21,Female,Classical,0.6,Morning,No,5,Yes
+58,Female,Rock,6.2,Morning,No,3,Yes
+50,Female,Pop,5.8,Afternoon,Yes,5,No
+16,Prefer not to say,Hip-Hop,3.6,All Day,Yes,5,No
+17,Prefer not to say,Hip-Hop,1.1,Morning,Yes,3,No
+27,Male,Jazz,1.1,Afternoon,Yes,5,Yes
+13,Male,Pop,2.4,Evening,No,4,No
+47,Male,Hip-Hop,2.9,Night,Yes,3,No
+23,Male,Rock,6.3,All Day,Yes,5,Yes
+47,Prefer not to say,Classical,4.3,Evening,Yes,3,No
+42,Female,Hip-Hop,5.5,Afternoon,Yes,3,No
+44,Non-binary,Electronic,5.0,Afternoon,Yes,5,No
+48,Prefer not to say,Classical,7.1,All Day,Yes,3,No
+33,Prefer not to say,Classical,7.9,Evening,Yes,4,Yes
+53,Non-binary,Country,0.6,Morning,No,3,Yes
+25,Non-binary,R&B,1.8,All Day,Yes,2,Yes
+36,Prefer not to say,Electronic,1.4,Morning,No,1,Yes
+22,Non-binary,Country,7.2,Night,Yes,5,Yes
+46,Prefer not to say,Hip-Hop,7.9,Night,Yes,4,No
+43,Prefer not to say,Jazz,5.0,Evening,No,4,Yes
+52,Female,R&B,2.9,Night,Yes,2,No
+28,Non-binary,Hip-Hop,0.7,All Day,No,2,Yes
+35,Non-binary,Pop,4.7,All Day,Yes,1,No
+52,Non-binary,Electronic,2.5,All Day,Yes,5,Yes
+31,Prefer not to say,Country,7.4,Morning,No,1,No
+15,Non-binary,Country,5.0,Night,No,2,Yes
+47,Non-binary,Classical,4.8,Morning,No,3,No
+34,Non-binary,Pop,1.1,Morning,Yes,4,Yes
+19,Non-binary,Hip-Hop,1.7,Evening,No,4,No
+54,Non-binary,R&B,1.3,Evening,Yes,1,No
+60,Female,Pop,7.9,Evening,Yes,1,Yes
+42,Male,Jazz,6.9,Night,No,1,No
+36,Female,Rock,0.8,All Day,No,3,Yes
+26,Non-binary,Jazz,6.6,Evening,No,1,Yes
+55,Male,Hip-Hop,1.2,All Day,No,4,Yes
+37,Non-binary,Electronic,2.8,Afternoon,Yes,1,Yes
+42,Non-binary,Pop,4.6,Afternoon,No,1,Yes
+18,Prefer not to say,Rock,5.0,Morning,No,2,Yes
+26,Female,Rock,8.0,All Day,Yes,4,Yes
+46,Non-binary,Country,1.9,Morning,Yes,5,Yes
+14,Male,Classical,7.7,Morning,Yes,3,Yes
+55,Female,Country,2.8,Night,Yes,3,Yes
+17,Female,Jazz,6.6,Afternoon,No,5,Yes
+53,Male,Country,4.1,All Day,No,3,Yes
+32,Prefer not to say,Pop,7.3,Night,No,5,No
+44,Male,Electronic,2.4,Afternoon,Yes,5,No
+29,Female,Jazz,0.6,Evening,Yes,5,Yes
+59,Non-binary,Pop,2.9,All Day,Yes,5,Yes
+43,Non-binary,Country,1.1,All Day,No,1,No
+17,Prefer not to say,Rock,2.0,Evening,No,5,Yes
+60,Non-binary,Classical,7.0,Afternoon,Yes,5,Yes
+21,Female,Rock,1.0,All Day,No,3,No
+51,Male,Hip-Hop,7.1,All Day,No,2,No
+25,Female,Electronic,3.5,All Day,Yes,2,No
+24,Female,Pop,0.7,Night,Yes,5,No
+42,Non-binary,Country,7.7,Morning,Yes,1,Yes
+15,Non-binary,Country,4.5,Evening,No,4,No
+54,Female,Hip-Hop,3.7,Afternoon,Yes,5,Yes
+38,Non-binary,R&B,7.1,Afternoon,No,3,Yes
+55,Female,Rock,7.7,Night,No,2,Yes
+52,Male,Pop,7.1,Morning,Yes,5,Yes
+56,Male,Electronic,6.3,All Day,Yes,4,Yes
+45,Male,Pop,7.9,Afternoon,Yes,5,Yes
+60,Non-binary,Electronic,7.0,Night,Yes,5,No
+45,Male,Pop,1.3,Evening,No,4,Yes
+52,Non-binary,Jazz,1.2,Evening,Yes,1,Yes
+50,Non-binary,Pop,3.6,Morning,Yes,1,No
+29,Female,Electronic,4.0,Morning,No,1,No
+51,Non-binary,Country,0.9,Morning,No,1,Yes
+27,Female,Electronic,1.5,Afternoon,No,3,Yes
+32,Female,Rock,5.7,Morning,Yes,4,No
+34,Male,Jazz,1.5,Evening,Yes,3,No
+25,Female,Rock,3.7,All Day,Yes,2,Yes
+20,Non-binary,R&B,1.4,Afternoon,No,5,No
+19,Prefer not to say,Rock,7.4,Evening,No,2,No
+55,Male,R&B,5.2,Afternoon,No,4,Yes
+42,Prefer not to say,Classical,3.0,Evening,No,4,No
+14,Non-binary,Rock,6.9,Afternoon,Yes,3,Yes
+33,Female,Classical,1.2,Morning,Yes,5,Yes
+42,Female,Rock,4.4,Night,No,2,Yes
+33,Non-binary,Pop,5.0,Evening,No,4,Yes
+52,Prefer not to say,Hip-Hop,5.0,Evening,No,4,Yes
+13,Prefer not to say,Country,4.9,Evening,No,2,No
+51,Female,Pop,6.8,Night,No,5,Yes
+25,Prefer not to say,Jazz,3.2,Morning,No,2,No
+16,Prefer not to say,R&B,0.5,Evening,No,5,Yes
+45,Prefer not to say,Classical,5.9,Afternoon,Yes,1,No
+39,Non-binary,Country,3.3,Morning,No,5,Yes
+24,Non-binary,Classical,5.2,All Day,No,2,No
+24,Female,Hip-Hop,3.6,Night,Yes,3,No
+48,Female,Country,5.2,Afternoon,No,1,Yes
+13,Female,Pop,6.4,All Day,Yes,5,Yes
+53,Prefer not to say,R&B,2.0,Morning,No,1,No
+29,Non-binary,Jazz,5.6,Afternoon,No,5,No
+19,Prefer not to say,Rock,2.6,Night,Yes,1,No
+16,Prefer not to say,Classical,4.5,Evening,No,3,Yes
+24,Non-binary,Jazz,4.3,Night,Yes,5,No
+22,Male,Pop,7.4,Evening,No,5,Yes
+25,Male,Classical,3.0,Evening,No,5,Yes
+16,Female,Electronic,1.0,Night,No,4,Yes
+25,Prefer not to say,Rock,2.5,Evening,No,4,No
+34,Prefer not to say,Electronic,5.3,Afternoon,No,2,Yes
+16,Male,Country,5.3,Afternoon,No,3,Yes
+56,Non-binary,Jazz,7.0,Night,Yes,3,No
+34,Prefer not to say,Pop,1.5,Night,No,5,No
+50,Non-binary,Pop,5.9,Afternoon,No,3,Yes
+45,Prefer not to say,Hip-Hop,5.3,Afternoon,No,4,No
+24,Non-binary,Classical,7.4,Afternoon,No,4,No
+37,Female,Jazz,3.4,Morning,No,5,Yes
+23,Prefer not to say,Pop,1.6,Night,No,5,Yes
+16,Prefer not to say,Jazz,7.0,Night,No,3,Yes
+39,Male,Electronic,5.5,Evening,Yes,4,Yes
+28,Male,Pop,5.0,Night,No,2,Yes
+39,Non-binary,Classical,1.9,Morning,No,5,No
+54,Male,Classical,1.7,Afternoon,Yes,1,No
+43,Female,Electronic,0.9,Evening,Yes,5,No
+58,Female,Rock,6.4,Night,Yes,2,No
+58,Female,R&B,0.9,Night,Yes,1,Yes
+24,Male,Rock,2.3,Afternoon,No,5,No
+23,Male,Pop,2.7,All Day,Yes,3,Yes
+25,Male,Rock,6.5,Morning,Yes,4,Yes
+28,Female,Classical,6.9,Evening,No,2,No
+58,Prefer not to say,Country,7.2,Afternoon,Yes,3,No
+18,Non-binary,R&B,5.1,Morning,Yes,1,Yes
+19,Non-binary,Jazz,2.6,Night,Yes,2,No
+23,Female,R&B,5.4,Morning,No,2,No
+22,Prefer not to say,R&B,3.1,Evening,No,4,Yes
+15,Non-binary,Rock,3.7,Afternoon,No,3,Yes
+23,Non-binary,Hip-Hop,8.0,All Day,No,4,No
+32,Female,Country,0.8,All Day,Yes,5,Yes
+60,Male,Electronic,5.8,Afternoon,No,4,Yes
+29,Male,Pop,1.3,Afternoon,Yes,5,No
+44,Non-binary,Electronic,3.2,All Day,No,5,Yes
+46,Female,R&B,7.3,Morning,No,3,Yes
+37,Non-binary,R&B,7.4,Morning,No,1,No
+54,Female,Classical,2.8,All Day,No,1,Yes
+57,Prefer not to say,Hip-Hop,7.3,Morning,No,5,No
+16,Prefer not to say,Classical,5.6,All Day,No,3,Yes
+31,Female,Hip-Hop,1.4,Morning,Yes,4,No
+26,Male,Rock,3.0,All Day,No,3,No
+19,Prefer not to say,Electronic,2.9,Night,No,4,Yes
+40,Non-binary,Jazz,3.7,Evening,Yes,2,Yes
+25,Prefer not to say,Classical,5.3,Morning,Yes,2,No
+45,Prefer not to say,Pop,1.2,Night,Yes,2,Yes
+43,Female,R&B,3.1,Evening,Yes,3,Yes
+44,Non-binary,R&B,7.5,Evening,No,1,No
+37,Prefer not to say,Country,5.8,Afternoon,No,5,No
+41,Female,Country,2.8,Night,Yes,2,No
+57,Male,Pop,6.5,Afternoon,Yes,1,Yes
+34,Male,Hip-Hop,6.8,Evening,Yes,1,No
+37,Non-binary,Electronic,3.8,Night,No,4,Yes
+60,Male,Pop,4.1,Night,Yes,1,Yes
+59,Female,R&B,0.5,Night,No,4,Yes
+36,Prefer not to say,Country,1.0,All Day,No,2,Yes
+52,Non-binary,Electronic,7.3,Night,Yes,4,No
+32,Prefer not to say,Pop,4.8,All Day,No,3,No
+34,Female,Electronic,2.7,Morning,Yes,5,Yes
+32,Female,Country,2.0,Afternoon,No,4,Yes
+28,Non-binary,Pop,1.8,Night,No,1,No
+55,Female,Hip-Hop,1.7,Evening,Yes,1,Yes
+30,Prefer not to say,R&B,3.5,Evening,No,1,No
+49,Male,Rock,1.2,Evening,No,3,No
+18,Non-binary,Classical,1.2,Morning,Yes,5,Yes
+56,Female,Hip-Hop,7.9,Evening,Yes,5,No
+58,Female,Hip-Hop,3.0,Afternoon,No,5,No
+26,Non-binary,Country,1.0,All Day,Yes,1,No
+25,Male,R&B,1.2,Afternoon,Yes,2,No
+46,Prefer not to say,Jazz,6.7,Afternoon,Yes,4,No
+42,Prefer not to say,Electronic,4.2,Night,Yes,4,Yes
+33,Female,Pop,3.8,Morning,Yes,3,No
+30,Male,Electronic,1.2,Night,Yes,5,Yes
+45,Non-binary,Hip-Hop,5.9,Morning,Yes,1,No
+49,Non-binary,Pop,7.9,Night,No,2,Yes
+60,Non-binary,Country,5.7,Afternoon,Yes,2,No
+27,Non-binary,Classical,1.1,Evening,Yes,3,Yes
+33,Male,R&B,2.5,Afternoon,Yes,1,No
+35,Male,Hip-Hop,3.8,Afternoon,No,3,Yes
+20,Male,Hip-Hop,7.0,Evening,No,5,No
+31,Non-binary,Rock,4.5,Afternoon,No,3,No
+17,Prefer not to say,Electronic,6.1,Afternoon,No,2,No
+60,Female,Hip-Hop,6.0,Night,Yes,3,No
+38,Male,Hip-Hop,4.7,Night,No,5,Yes
+13,Non-binary,Hip-Hop,6.2,Night,Yes,3,Yes
+27,Prefer not to say,Pop,1.1,Morning,Yes,5,No
+37,Non-binary,Jazz,4.6,Morning,Yes,4,Yes
+55,Female,Classical,5.2,Afternoon,No,2,Yes
+43,Male,Jazz,1.7,All Day,No,4,No
+19,Non-binary,R&B,3.7,Night,Yes,4,Yes
+39,Male,Country,2.0,Night,Yes,3,No
+32,Prefer not to say,Jazz,3.3,Evening,Yes,2,Yes
+21,Male,R&B,7.0,Afternoon,No,4,Yes
+47,Male,Rock,7.3,All Day,Yes,5,Yes
+27,Male,Rock,5.7,Afternoon,Yes,4,No
+31,Male,Rock,5.9,Morning,Yes,1,No
+33,Female,Hip-Hop,0.7,Night,Yes,5,Yes
+57,Prefer not to say,R&B,2.7,Afternoon,Yes,5,Yes
+48,Non-binary,Country,7.9,Evening,No,4,No
+45,Prefer not to say,Rock,3.6,All Day,Yes,5,Yes
+46,Female,Hip-Hop,4.4,All Day,No,1,Yes
+33,Female,Classical,2.2,All Day,No,1,Yes
+26,Non-binary,R&B,0.8,Evening,Yes,4,No
+39,Male,Electronic,2.3,All Day,Yes,5,Yes
+13,Prefer not to say,Country,5.5,Morning,No,2,Yes
+21,Prefer not to say,Pop,7.9,Night,No,1,Yes
+30,Female,Country,4.7,Morning,Yes,3,No
+18,Prefer not to say,Classical,5.1,Evening,No,2,No
+50,Male,Rock,2.8,Afternoon,Yes,2,No
+57,Male,Electronic,2.7,Evening,No,2,No
+22,Non-binary,Electronic,5.4,Afternoon,No,5,No
+14,Female,Country,2.7,Evening,No,1,No
+40,Prefer not to say,Classical,6.6,Morning,No,5,Yes
+35,Prefer not to say,Country,4.4,Evening,Yes,5,Yes
+58,Prefer not to say,Rock,2.9,Morning,No,1,Yes
+35,Male,Country,1.7,Night,Yes,3,Yes
+24,Non-binary,R&B,7.2,Afternoon,No,2,No
+36,Female,Rock,6.2,Night,No,4,No
+37,Female,R&B,6.3,Morning,No,5,Yes
+34,Male,Jazz,2.2,Evening,Yes,1,Yes
+15,Prefer not to say,Jazz,7.9,Night,Yes,2,Yes
+52,Prefer not to say,Electronic,6.0,Night,No,2,Yes
+51,Non-binary,Pop,5.6,Afternoon,Yes,4,Yes
+60,Prefer not to say,Country,3.7,Night,Yes,3,Yes
+30,Female,Rock,6.7,Evening,No,4,Yes
+50,Male,Electronic,4.3,Morning,No,2,Yes
+20,Male,Classical,7.0,Evening,No,1,Yes
+27,Prefer not to say,Country,1.3,Afternoon,No,3,No
+14,Prefer not to say,Classical,7.9,Evening,No,5,Yes
+45,Female,Electronic,7.7,All Day,No,3,Yes
+38,Female,Jazz,1.8,Morning,Yes,4,Yes
+17,Prefer not to say,Hip-Hop,0.5,Night,No,4,No
+17,Female,Electronic,3.5,All Day,No,5,No
+40,Non-binary,Rock,3.0,Afternoon,Yes,1,No
+51,Female,Classical,6.8,Afternoon,No,2,Yes
+38,Prefer not to say,Hip-Hop,7.8,Night,Yes,5,Yes
+19,Male,Jazz,1.8,Afternoon,No,3,Yes
+27,Prefer not to say,Country,7.6,Morning,Yes,2,No
+38,Prefer not to say,Rock,4.6,Morning,Yes,1,No
+51,Prefer not to say,Country,7.2,Afternoon,No,5,Yes
+18,Male,Pop,2.4,Night,Yes,3,Yes
+43,Non-binary,R&B,1.3,Night,Yes,1,Yes
+60,Female,Hip-Hop,6.3,Morning,Yes,1,No
+29,Male,Rock,1.5,Morning,No,3,Yes
+23,Male,Country,4.2,Afternoon,Yes,3,Yes
+49,Non-binary,Country,4.5,Morning,Yes,4,No
+35,Non-binary,Hip-Hop,1.6,All Day,No,2,Yes
+33,Prefer not to say,R&B,2.1,Afternoon,No,4,No
+34,Male,Classical,3.9,Evening,Yes,1,No
+52,Female,Pop,2.3,Evening,Yes,4,Yes
+17,Non-binary,Country,2.6,Afternoon,No,4,No
+39,Male,Rock,7.7,Morning,Yes,3,Yes
+46,Prefer not to say,Jazz,3.5,Morning,No,1,No
+41,Female,Jazz,4.7,Evening,No,4,No
+23,Male,Country,2.7,All Day,No,1,No
+27,Non-binary,Hip-Hop,5.2,Evening,No,3,No
+40,Non-binary,R&B,3.4,Night,No,1,Yes
+47,Female,Jazz,5.9,All Day,Yes,4,Yes
+45,Non-binary,R&B,2.0,All Day,Yes,3,No
+41,Male,Electronic,6.7,Night,Yes,5,Yes
+28,Female,Hip-Hop,4.2,Night,Yes,4,No
+47,Female,Country,2.3,Morning,No,4,No
+16,Non-binary,Electronic,2.4,All Day,No,2,No
+23,Female,Electronic,7.9,Night,No,2,No
+15,Non-binary,R&B,1.9,Morning,Yes,4,No
+28,Non-binary,Country,5.4,All Day,Yes,1,Yes
+54,Female,Country,2.7,Evening,No,5,Yes
+38,Female,Electronic,4.1,Night,Yes,5,Yes
+46,Non-binary,Jazz,2.2,Afternoon,Yes,5,Yes
+28,Non-binary,R&B,1.8,Afternoon,Yes,4,No
+43,Non-binary,Classical,3.0,All Day,Yes,1,No
+28,Non-binary,Pop,3.6,Evening,Yes,5,No
+15,Prefer not to say,R&B,0.5,Evening,Yes,3,No
+51,Male,Classical,0.8,Afternoon,No,5,No
+56,Prefer not to say,Hip-Hop,4.7,Afternoon,Yes,5,No
+14,Non-binary,Hip-Hop,7.3,Night,No,3,Yes
+55,Non-binary,Jazz,8.0,Morning,Yes,1,No
+29,Prefer not to say,Classical,3.0,Afternoon,Yes,5,Yes
+53,Female,Rock,0.8,Afternoon,No,3,Yes
+32,Prefer not to say,Electronic,6.7,Night,No,5,No
+36,Male,Electronic,5.6,Evening,No,5,No
+32,Non-binary,Classical,3.2,Afternoon,No,4,Yes
+46,Male,R&B,7.0,Morning,No,3,Yes
+36,Male,Rock,5.3,Afternoon,Yes,1,Yes
+32,Male,Electronic,8.0,All Day,Yes,5,No
+41,Non-binary,Jazz,1.6,Morning,No,4,Yes
+23,Male,Country,4.5,Night,No,4,No
+29,Male,Classical,3.1,Morning,No,1,Yes
+18,Prefer not to say,Jazz,4.6,Morning,Yes,2,No
+42,Prefer not to say,Hip-Hop,4.8,Afternoon,Yes,4,Yes
+24,Prefer not to say,Country,5.4,Morning,Yes,1,Yes
+47,Prefer not to say,R&B,6.0,Evening,No,4,No
+42,Prefer not to say,Electronic,7.5,Morning,No,4,No
+23,Female,Rock,2.5,Evening,Yes,1,Yes
+59,Female,Rock,3.9,Afternoon,Yes,1,No
+42,Prefer not to say,Jazz,3.6,Evening,Yes,2,No
+16,Prefer not to say,Hip-Hop,5.6,Night,No,5,Yes
+37,Non-binary,Hip-Hop,4.7,Morning,No,4,No
+18,Female,Pop,2.6,Night,No,1,No
+32,Female,Rock,4.1,Evening,No,2,Yes
+36,Female,Country,5.4,Evening,No,3,No
+19,Female,Rock,4.1,All Day,Yes,3,No
+27,Male,Classical,4.8,Afternoon,Yes,1,No
+56,Female,Country,3.3,Night,No,3,Yes
+24,Prefer not to say,Country,0.9,Morning,No,4,No
+28,Non-binary,Electronic,0.8,Evening,No,2,Yes
+49,Prefer not to say,Pop,0.8,Evening,Yes,5,No
+49,Non-binary,Electronic,5.9,All Day,Yes,3,No
+19,Female,Classical,6.2,All Day,No,4,Yes
+34,Prefer not to say,Classical,1.6,All Day,Yes,4,Yes
+50,Non-binary,Pop,3.0,All Day,Yes,2,Yes
+22,Male,Rock,3.4,All Day,Yes,5,No
+46,Non-binary,Country,6.1,Night,No,1,Yes
+42,Male,Country,7.3,All Day,No,1,No
+17,Non-binary,Pop,0.7,Evening,Yes,3,No
+46,Non-binary,Classical,5.4,All Day,Yes,1,Yes
+33,Female,Rock,6.3,Evening,No,2,Yes
+13,Female,R&B,6.3,Afternoon,Yes,4,No
+38,Female,Country,3.7,Morning,Yes,4,Yes
+39,Prefer not to say,Jazz,7.4,Afternoon,Yes,3,Yes
+29,Non-binary,Classical,4.5,Morning,Yes,4,Yes
+38,Female,Hip-Hop,0.7,Morning,No,3,No
+45,Female,Country,7.8,Night,Yes,2,No
+54,Non-binary,Rock,7.3,Morning,No,4,No
+21,Female,R&B,1.8,Morning,No,1,No
+51,Prefer not to say,R&B,2.3,All Day,No,2,Yes
+45,Male,Rock,7.1,All Day,No,1,Yes
+30,Female,Country,3.6,All Day,No,5,No
+43,Prefer not to say,Rock,6.8,Evening,Yes,2,No
+55,Non-binary,Country,1.0,All Day,Yes,1,No
+58,Prefer not to say,Pop,0.6,All Day,No,1,No
+60,Prefer not to say,R&B,1.6,All Day,Yes,5,Yes
+24,Male,Hip-Hop,6.0,Night,No,4,Yes
+19,Female,Electronic,6.6,Afternoon,Yes,3,No
+39,Female,Pop,4.0,Afternoon,Yes,2,Yes
+36,Non-binary,Pop,5.0,Afternoon,Yes,4,No
+14,Male,Country,6.8,Evening,Yes,5,Yes
+48,Female,Country,2.9,Afternoon,Yes,2,Yes
+56,Male,Electronic,0.5,Afternoon,Yes,1,Yes
+59,Non-binary,Jazz,0.9,Afternoon,Yes,2,Yes
+36,Male,Classical,2.3,All Day,No,5,Yes
+27,Female,Hip-Hop,7.1,Night,Yes,3,No
+44,Non-binary,R&B,3.2,All Day,No,4,No
+56,Prefer not to say,Jazz,2.8,Night,Yes,1,No
+49,Prefer not to say,Electronic,7.0,Morning,Yes,5,No
+34,Male,Country,1.3,Night,No,4,Yes
+41,Non-binary,R&B,6.8,Afternoon,No,5,Yes
+23,Female,Electronic,7.9,All Day,Yes,1,Yes
+59,Female,Classical,1.6,Afternoon,No,2,No
+46,Male,Hip-Hop,6.8,Morning,Yes,5,Yes
+44,Non-binary,Pop,2.9,Evening,Yes,2,Yes
+15,Prefer not to say,R&B,7.1,Afternoon,No,1,Yes
+55,Non-binary,Jazz,2.4,Night,No,1,Yes
+43,Non-binary,Pop,7.7,All Day,Yes,5,Yes
+25,Prefer not to say,Pop,1.0,All Day,Yes,3,No
+29,Non-binary,Hip-Hop,6.6,Evening,No,2,No
+16,Prefer not to say,Hip-Hop,2.2,Evening,Yes,5,Yes
+56,Male,Rock,4.7,Morning,Yes,5,Yes
+45,Male,Electronic,5.4,Morning,Yes,4,No
+22,Female,Classical,7.6,Night,Yes,2,No
+30,Male,R&B,3.4,All Day,Yes,5,Yes
+53,Male,Rock,3.4,Afternoon,No,1,Yes
+21,Male,Hip-Hop,7.9,Afternoon,Yes,4,Yes
+34,Male,Country,7.0,Evening,Yes,3,Yes
+19,Non-binary,R&B,7.7,Afternoon,No,2,No
+46,Male,Pop,3.9,Afternoon,Yes,3,Yes
+45,Male,R&B,1.1,Afternoon,Yes,3,Yes
+19,Male,R&B,1.5,Afternoon,No,3,No
+38,Male,Hip-Hop,3.8,Night,Yes,5,Yes
+18,Non-binary,Pop,6.8,Night,Yes,3,No
+37,Prefer not to say,Pop,1.8,Night,Yes,1,Yes
+60,Non-binary,Pop,2.3,Morning,Yes,4,No
+52,Non-binary,R&B,3.5,Afternoon,No,3,Yes
+34,Prefer not to say,Hip-Hop,5.1,Morning,Yes,2,No
+23,Prefer not to say,Country,4.6,Afternoon,No,2,Yes
+30,Female,Electronic,0.5,Afternoon,No,5,Yes
+58,Non-binary,R&B,0.9,Afternoon,No,4,No
+51,Non-binary,Classical,6.3,All Day,Yes,1,No
+24,Non-binary,Rock,6.8,Night,Yes,4,No
+16,Female,Country,5.0,All Day,Yes,2,Yes
+37,Prefer not to say,R&B,7.0,Morning,Yes,2,No
+45,Male,Hip-Hop,3.9,Morning,Yes,4,No
+26,Male,Electronic,3.0,Night,No,1,Yes
+40,Female,Classical,4.5,Morning,Yes,1,Yes
+26,Prefer not to say,Country,4.2,Night,Yes,5,No
+13,Female,Jazz,4.0,Afternoon,Yes,5,Yes
+53,Male,R&B,5.4,Morning,Yes,2,Yes
+33,Non-binary,Electronic,6.1,Night,No,2,No
+50,Male,Pop,5.2,Afternoon,No,2,No
+44,Non-binary,Electronic,3.9,Morning,No,3,No
+22,Female,Country,2.6,Night,Yes,2,No
+46,Female,Hip-Hop,5.0,Afternoon,Yes,3,No
+32,Male,Electronic,3.0,Evening,No,1,No
+44,Male,R&B,6.7,Morning,Yes,5,No
+58,Prefer not to say,Jazz,1.6,Morning,No,3,No
+38,Female,R&B,7.1,All Day,No,3,Yes
+56,Non-binary,Country,4.1,Morning,No,2,Yes
+60,Prefer not to say,Rock,4.8,Morning,Yes,5,No
+48,Non-binary,Pop,7.9,Morning,Yes,4,Yes
+27,Female,Country,5.8,Afternoon,No,5,Yes
+32,Prefer not to say,Electronic,7.7,Afternoon,No,2,No
+46,Female,R&B,6.5,Morning,Yes,1,Yes
+28,Female,Hip-Hop,1.0,All Day,No,1,Yes
+41,Female,Pop,7.0,Evening,Yes,5,Yes
+47,Female,Pop,3.6,All Day,Yes,4,Yes
+22,Female,R&B,6.2,Afternoon,Yes,4,No
+29,Prefer not to say,Hip-Hop,2.7,All Day,No,5,Yes
+40,Prefer not to say,Jazz,3.4,Afternoon,Yes,4,No
+32,Female,Electronic,6.4,All Day,No,5,No
+22,Male,Hip-Hop,2.0,Night,No,5,Yes
+37,Prefer not to say,Hip-Hop,4.9,Evening,No,3,No
+44,Female,Country,4.5,All Day,Yes,4,No
+40,Female,Classical,1.3,All Day,No,4,Yes
+52,Male,Hip-Hop,4.9,Night,No,5,No
+31,Male,Pop,7.6,All Day,No,4,Yes
+49,Female,Rock,1.2,Evening,Yes,1,Yes
+16,Male,Rock,0.9,Night,No,1,Yes
+51,Prefer not to say,Country,8.0,Night,Yes,5,Yes
+23,Non-binary,Pop,2.1,Evening,No,3,No
+45,Prefer not to say,Rock,5.4,Night,Yes,4,Yes
+50,Non-binary,Jazz,3.8,Night,No,5,Yes
+41,Male,Hip-Hop,1.1,Morning,No,1,No
+52,Female,Jazz,5.9,Morning,No,5,Yes
+37,Female,Pop,1.4,Night,Yes,5,Yes
+21,Male,Jazz,3.8,All Day,No,2,Yes
+51,Male,Jazz,0.9,Morning,Yes,3,No
+47,Non-binary,Country,4.4,Night,Yes,4,Yes
+41,Female,Classical,2.4,Afternoon,Yes,5,Yes
+28,Male,Rock,6.5,Afternoon,Yes,5,No
+59,Male,Electronic,4.0,All Day,No,1,No
+48,Prefer not to say,Classical,6.4,Night,Yes,1,No
+32,Non-binary,R&B,7.3,Morning,Yes,5,No
+42,Non-binary,Electronic,2.9,All Day,No,2,Yes
+50,Male,Country,0.7,Morning,Yes,4,Yes
+48,Male,Country,4.8,Afternoon,No,1,Yes
+21,Non-binary,Country,3.5,Evening,No,1,No
+19,Male,Classical,1.1,All Day,No,5,Yes
+17,Female,Hip-Hop,3.7,All Day,Yes,3,No
+31,Non-binary,Hip-Hop,5.3,Morning,No,2,Yes
+15,Non-binary,R&B,5.4,All Day,No,4,No
+24,Female,Classical,4.3,Afternoon,Yes,3,Yes
+44,Non-binary,R&B,6.5,Morning,Yes,2,Yes
+21,Non-binary,R&B,6.7,Morning,No,1,No
+30,Male,R&B,7.0,Night,Yes,3,No
+29,Non-binary,Country,1.1,Night,No,1,No
+23,Male,Pop,0.9,Night,Yes,4,Yes
+25,Prefer not to say,Hip-Hop,3.0,All Day,Yes,5,No
+36,Male,Pop,7.9,All Day,Yes,2,No
+18,Non-binary,Country,7.4,All Day,No,5,No
+60,Prefer not to say,Country,2.8,Morning,Yes,1,No
+29,Female,Country,5.7,Afternoon,Yes,2,Yes
+57,Female,Hip-Hop,1.2,Afternoon,No,4,No
+20,Female,Jazz,6.3,Night,No,5,No
+53,Male,Pop,6.9,Night,Yes,5,Yes
+44,Non-binary,Pop,5.2,All Day,No,1,Yes
+25,Male,Country,1.4,All Day,Yes,1,Yes
+40,Non-binary,Hip-Hop,0.7,Afternoon,Yes,1,Yes
+25,Female,Rock,3.1,Afternoon,No,2,No
+52,Non-binary,Electronic,1.8,Night,Yes,3,Yes
+44,Non-binary,Classical,7.2,Morning,No,3,No
+28,Prefer not to say,Hip-Hop,5.8,Evening,No,3,No
+25,Prefer not to say,Pop,5.9,Night,Yes,1,Yes
+30,Male,Rock,1.2,Evening,Yes,1,Yes
+55,Female,Electronic,1.5,All Day,No,2,Yes
+26,Non-binary,Rock,7.2,Afternoon,No,1,Yes
+20,Female,Classical,5.3,Afternoon,No,5,Yes
+14,Prefer not to say,Pop,1.2,Evening,No,1,No
+43,Male,R&B,3.1,All Day,No,1,Yes
+46,Female,R&B,5.0,Morning,Yes,1,Yes
+47,Male,Rock,6.7,Afternoon,No,3,No
+19,Prefer not to say,Classical,0.6,Night,No,4,No
+41,Non-binary,R&B,3.9,All Day,No,4,Yes
+45,Female,Pop,7.8,Morning,No,4,Yes
+51,Prefer not to say,Rock,1.7,Night,Yes,5,No
+22,Male,Pop,4.1,Morning,Yes,4,Yes
+33,Prefer not to say,Jazz,2.0,Afternoon,Yes,4,Yes
+44,Prefer not to say,Electronic,0.9,All Day,Yes,4,Yes
+43,Male,Classical,7.1,Night,No,4,No
+33,Non-binary,Country,7.3,Night,Yes,4,No
+47,Male,Jazz,1.6,Afternoon,No,3,No
+24,Female,Rock,3.7,Evening,Yes,3,Yes
+59,Non-binary,Electronic,2.2,All Day,No,2,No
+27,Non-binary,Pop,2.3,All Day,Yes,3,Yes
+50,Prefer not to say,R&B,3.9,Afternoon,No,1,No
+35,Prefer not to say,Classical,1.2,All Day,Yes,4,No
+34,Female,Hip-Hop,0.5,Morning,Yes,5,Yes
+32,Female,Electronic,2.0,All Day,No,3,No
+54,Prefer not to say,Electronic,2.5,Night,Yes,1,Yes
+17,Male,Electronic,1.2,Morning,Yes,2,No
+36,Male,Classical,4.6,Night,No,4,Yes
+44,Non-binary,R&B,0.6,Afternoon,No,3,No
+44,Male,Electronic,1.5,Morning,No,3,Yes
+53,Female,Rock,5.5,Afternoon,No,5,No
+19,Male,R&B,6.7,Morning,No,3,Yes
+54,Male,Electronic,1.1,Evening,Yes,4,No
+17,Non-binary,Pop,1.8,Night,No,3,Yes
+40,Non-binary,R&B,8.0,Afternoon,No,1,No
+23,Female,Rock,4.1,Night,Yes,3,No
+28,Non-binary,Hip-Hop,6.4,Evening,No,4,Yes
+14,Female,Electronic,0.7,Morning,No,2,Yes
+28,Male,Rock,2.6,Evening,Yes,3,Yes
+49,Male,Jazz,1.6,All Day,Yes,2,No
+34,Prefer not to say,Jazz,4.8,Evening,No,5,Yes
+57,Non-binary,Jazz,6.8,Morning,No,1,No
+19,Non-binary,Electronic,4.7,All Day,Yes,3,No
+47,Male,Classical,7.3,Morning,Yes,1,Yes
+54,Female,Jazz,5.4,Morning,No,4,Yes
+30,Non-binary,Electronic,6.8,Morning,Yes,2,Yes
+40,Female,R&B,7.0,Evening,No,3,No
+58,Female,Country,7.5,Afternoon,No,5,No
+56,Male,Rock,6.2,Afternoon,Yes,2,Yes
+42,Prefer not to say,R&B,6.3,Afternoon,Yes,3,No
+25,Prefer not to say,Classical,3.2,Morning,No,4,Yes
+35,Non-binary,Hip-Hop,0.7,All Day,No,1,No
+39,Female,R&B,1.3,Morning,Yes,1,Yes
+36,Male,Country,1.8,Night,No,2,No
+26,Prefer not to say,Pop,4.5,Evening,Yes,4,No
+30,Prefer not to say,Pop,8.0,Night,Yes,1,No
+34,Non-binary,Electronic,5.8,Morning,No,1,Yes
+18,Male,Hip-Hop,7.9,Morning,Yes,1,No
+58,Non-binary,Pop,1.3,Afternoon,No,4,Yes
+21,Prefer not to say,Country,3.3,Morning,No,5,Yes
+43,Male,Country,5.1,Evening,Yes,4,Yes
+13,Male,Country,6.5,Evening,Yes,3,Yes
+46,Non-binary,Rock,6.5,Night,Yes,4,Yes
+34,Male,Pop,7.3,Evening,Yes,3,Yes
+19,Prefer not to say,R&B,4.3,Morning,No,2,No
+45,Prefer not to say,Classical,3.0,All Day,No,5,No
+23,Female,Rock,6.3,Morning,No,2,No
+19,Male,R&B,7.5,Night,No,2,No
+23,Prefer not to say,Pop,3.7,Morning,No,5,Yes
+25,Non-binary,Country,1.0,Evening,Yes,2,Yes
+25,Male,Classical,3.9,Morning,Yes,5,Yes
+60,Male,R&B,0.8,Morning,No,1,No
+39,Male,Classical,5.9,Afternoon,Yes,2,No
+27,Male,Hip-Hop,3.6,All Day,Yes,5,No
+42,Prefer not to say,Jazz,5.8,Evening,Yes,4,Yes
+38,Prefer not to say,Jazz,3.4,Night,Yes,2,Yes
+29,Non-binary,Country,3.2,All Day,No,4,No
+55,Female,Classical,7.0,All Day,No,5,No
+35,Non-binary,Classical,3.4,Afternoon,No,3,No
+30,Female,Country,7.4,Evening,Yes,4,No
+16,Non-binary,Rock,2.0,Evening,Yes,2,Yes
+26,Prefer not to say,Country,5.1,Night,Yes,3,No
+36,Male,Jazz,2.1,Morning,No,5,Yes
+55,Male,Rock,4.6,Evening,Yes,2,Yes
+21,Non-binary,Pop,7.2,Morning,Yes,2,No
+59,Female,Jazz,5.2,Evening,Yes,5,Yes
+16,Non-binary,Pop,4.1,Morning,No,3,Yes
+19,Prefer not to say,R&B,4.9,Night,Yes,1,Yes
+59,Non-binary,Rock,4.5,Morning,Yes,4,Yes
+50,Male,Electronic,2.0,All Day,Yes,2,Yes
+34,Male,Electronic,5.2,Afternoon,No,3,Yes
+45,Male,Classical,5.3,Afternoon,Yes,3,No
+58,Prefer not to say,Country,7.5,Evening,No,2,No
+48,Male,Hip-Hop,5.1,Night,Yes,1,No
+56,Female,Electronic,3.1,All Day,No,1,Yes
+18,Female,Classical,7.8,Night,Yes,5,Yes
+28,Male,Country,1.0,Evening,No,3,Yes
+29,Prefer not to say,Hip-Hop,5.1,Evening,No,4,Yes
+52,Prefer not to say,Classical,7.6,All Day,Yes,5,Yes
+53,Female,Rock,3.3,All Day,Yes,3,No
+25,Female,Jazz,4.5,Afternoon,Yes,1,No
+53,Female,Country,5.9,Afternoon,Yes,5,Yes
+20,Female,Country,3.7,Afternoon,Yes,3,Yes
+14,Female,Rock,1.9,Afternoon,Yes,2,Yes
+46,Male,R&B,2.6,Evening,Yes,2,Yes
+42,Prefer not to say,Jazz,1.3,Afternoon,No,4,Yes
+60,Prefer not to say,Classical,1.0,Night,No,4,Yes
+49,Prefer not to say,Rock,6.6,Evening,No,4,Yes
+37,Male,Jazz,5.6,All Day,Yes,1,Yes
+39,Non-binary,Jazz,4.7,Afternoon,Yes,1,No
+33,Prefer not to say,Hip-Hop,3.7,Morning,Yes,2,Yes
+52,Male,R&B,1.4,Night,Yes,3,No
+35,Female,Pop,6.5,Morning,Yes,3,No
+14,Non-binary,Pop,2.3,Morning,No,4,Yes
+58,Prefer not to say,Electronic,1.6,Morning,Yes,3,Yes
+18,Prefer not to say,Rock,6.0,All Day,No,1,Yes
+29,Female,Classical,3.6,All Day,No,2,Yes
+43,Male,Rock,5.1,Night,No,5,Yes
+27,Female,Hip-Hop,5.7,Evening,No,1,Yes
+23,Male,Electronic,1.8,Afternoon,Yes,1,No
+34,Non-binary,Classical,2.1,Evening,No,1,No
+55,Non-binary,Jazz,4.6,Afternoon,Yes,4,No
+55,Male,Rock,1.8,All Day,Yes,4,Yes
+29,Prefer not to say,Jazz,3.8,Morning,Yes,4,No
+34,Male,Jazz,1.2,Night,No,1,No
+40,Non-binary,Pop,3.8,Afternoon,No,4,No
+32,Non-binary,R&B,4.7,Morning,No,2,No
+52,Non-binary,Rock,2.5,All Day,Yes,4,Yes
+27,Female,Jazz,2.1,Evening,Yes,3,No
+50,Prefer not to say,Hip-Hop,1.6,All Day,No,3,No
+39,Non-binary,Classical,5.1,Evening,Yes,4,No
+18,Prefer not to say,Pop,7.3,Morning,Yes,3,Yes
+45,Female,Pop,7.7,Evening,No,2,No
+46,Prefer not to say,Pop,3.2,Morning,No,3,Yes
+47,Non-binary,Jazz,1.2,Afternoon,No,4,Yes
+35,Prefer not to say,Jazz,4.8,Evening,Yes,2,No
+20,Female,Pop,7.5,Morning,Yes,3,Yes
+34,Non-binary,Pop,7.3,Evening,Yes,1,Yes
+25,Non-binary,Electronic,1.3,Evening,No,2,No
+18,Prefer not to say,R&B,3.1,Morning,Yes,3,No
+20,Prefer not to say,Hip-Hop,7.0,Morning,No,4,No
+23,Non-binary,R&B,0.8,Evening,No,2,No
+33,Female,Rock,3.9,Afternoon,Yes,1,Yes
+21,Female,Pop,7.7,Afternoon,Yes,2,No
+41,Male,Pop,7.9,Morning,No,3,Yes
+35,Male,Rock,2.2,Morning,Yes,3,No
+36,Male,Hip-Hop,7.9,Evening,No,5,Yes
+20,Male,Rock,7.0,Morning,No,1,Yes
+39,Male,Country,0.7,Afternoon,Yes,3,No
+37,Male,Electronic,3.0,All Day,No,4,No
+41,Female,Rock,2.1,All Day,No,5,No
+52,Non-binary,R&B,2.1,Morning,Yes,4,No
+36,Non-binary,Rock,2.5,All Day,Yes,1,Yes
+39,Male,Classical,4.2,Night,Yes,5,No
+48,Male,Electronic,2.3,Night,No,2,No
+52,Male,Country,6.5,Afternoon,No,5,No
+45,Female,Hip-Hop,4.6,Morning,Yes,5,No
+47,Non-binary,Jazz,7.2,All Day,No,3,Yes
+43,Female,Country,6.9,All Day,No,2,No
+51,Prefer not to say,Rock,7.0,Afternoon,No,2,Yes
+14,Female,Electronic,1.5,Morning,Yes,2,Yes
+41,Prefer not to say,Rock,4.8,Morning,Yes,3,Yes
+49,Prefer not to say,Electronic,4.6,All Day,No,1,Yes
+24,Prefer not to say,R&B,7.1,Night,Yes,1,Yes
+45,Prefer not to say,Country,3.9,Afternoon,No,5,Yes
+29,Female,Hip-Hop,7.3,Afternoon,No,5,No
+20,Prefer not to say,Hip-Hop,2.7,Evening,Yes,2,Yes
+52,Non-binary,Electronic,5.3,Night,Yes,3,No
+60,Non-binary,Pop,3.3,Morning,No,4,No
+25,Non-binary,Hip-Hop,4.0,All Day,No,4,No
+19,Male,Hip-Hop,3.6,Night,No,1,No
+24,Non-binary,Hip-Hop,3.3,Evening,No,2,Yes
+46,Female,Classical,3.8,Night,No,2,No
+40,Male,Country,6.2,Morning,Yes,1,No
+29,Prefer not to say,Country,7.2,Afternoon,Yes,1,No
+55,Non-binary,Hip-Hop,5.4,Night,No,2,Yes
+54,Non-binary,Pop,6.1,Night,No,5,Yes
+33,Non-binary,Jazz,1.8,All Day,Yes,1,Yes
+43,Prefer not to say,Classical,4.5,All Day,Yes,5,Yes
+38,Female,Hip-Hop,3.6,Night,Yes,1,No
+50,Prefer not to say,Electronic,5.2,Night,Yes,1,No
+38,Prefer not to say,Country,5.2,Evening,No,4,Yes
+18,Non-binary,Electronic,1.6,Night,Yes,4,Yes
+28,Male,Pop,1.8,Night,Yes,1,Yes
+38,Prefer not to say,Electronic,3.8,Evening,Yes,4,No
+47,Male,Rock,4.5,All Day,No,5,No
+39,Non-binary,Country,2.9,Morning,Yes,5,No
+37,Male,Electronic,7.0,Morning,No,3,No
+39,Male,Pop,3.2,Afternoon,Yes,4,Yes
+19,Female,Country,3.1,Afternoon,Yes,2,No
+44,Female,R&B,3.9,All Day,Yes,3,No
+38,Prefer not to say,Electronic,7.7,Evening,Yes,4,Yes
+41,Male,Jazz,5.4,Morning,No,2,Yes
+16,Non-binary,Electronic,2.5,Afternoon,No,3,Yes
+45,Prefer not to say,R&B,2.1,Afternoon,Yes,3,No
+59,Prefer not to say,Hip-Hop,2.1,All Day,Yes,2,No
+28,Female,Country,3.9,Morning,Yes,2,Yes
+60,Female,Jazz,5.6,Night,Yes,4,Yes
+32,Female,R&B,1.9,Afternoon,No,2,Yes
+42,Female,Hip-Hop,2.6,Evening,No,5,No
+25,Prefer not to say,Pop,3.4,Morning,Yes,2,No
+60,Non-binary,Electronic,6.3,Night,No,1,Yes
+56,Non-binary,Country,3.0,All Day,Yes,4,No
+32,Male,Jazz,4.8,Evening,Yes,2,No
+60,Female,Electronic,1.1,Afternoon,No,1,Yes
+19,Male,Electronic,2.4,All Day,No,4,No
+55,Female,Electronic,4.8,Morning,Yes,2,No
+14,Male,Hip-Hop,4.0,Afternoon,No,1,Yes
+35,Male,Jazz,2.0,Afternoon,Yes,4,Yes
+40,Non-binary,Country,2.6,Morning,Yes,4,No
+37,Prefer not to say,Rock,6.9,Night,Yes,4,Yes
+38,Prefer not to say,Hip-Hop,6.2,Afternoon,Yes,5,Yes
+30,Non-binary,Electronic,6.7,Morning,Yes,2,Yes
+32,Female,Rock,7.5,Afternoon,No,3,Yes
+22,Prefer not to say,Classical,7.7,Night,Yes,4,No
+48,Non-binary,Classical,7.4,Morning,No,2,Yes
+24,Female,Rock,5.9,Night,No,1,Yes
+14,Prefer not to say,Rock,7.4,Morning,Yes,5,No
+53,Prefer not to say,Country,6.3,Afternoon,Yes,1,Yes
+60,Male,Hip-Hop,6.5,Morning,No,3,No
+29,Non-binary,Electronic,6.6,Afternoon,No,2,Yes
+18,Prefer not to say,Electronic,1.8,Afternoon,Yes,5,Yes
+16,Prefer not to say,Jazz,6.5,All Day,No,4,Yes
+17,Non-binary,Pop,1.8,Morning,No,4,Yes
+36,Non-binary,Jazz,3.9,All Day,No,5,No
+30,Male,Classical,6.6,Night,Yes,1,Yes
+25,Female,Electronic,6.0,Morning,Yes,1,Yes
+13,Female,R&B,5.2,All Day,No,3,No
+48,Prefer not to say,Classical,0.8,All Day,No,5,No
+39,Female,Hip-Hop,6.8,All Day,Yes,3,No
+46,Non-binary,Pop,2.8,Morning,Yes,5,Yes
+23,Non-binary,Country,1.4,Afternoon,Yes,3,Yes
+50,Male,Classical,5.7,Evening,No,5,No
+51,Non-binary,Rock,2.4,Afternoon,Yes,3,Yes
+44,Prefer not to say,Classical,0.8,Morning,No,5,Yes
+57,Non-binary,Rock,6.3,Morning,No,4,No
+52,Non-binary,R&B,1.5,All Day,Yes,1,Yes
+39,Prefer not to say,R&B,3.2,Afternoon,Yes,1,Yes
+30,Female,Classical,3.8,Night,No,2,Yes
+25,Non-binary,Rock,5.6,Evening,No,5,Yes
+32,Female,Country,5.2,Evening,No,1,Yes
+46,Non-binary,Classical,3.6,Afternoon,No,1,Yes
+39,Male,Classical,5.9,Afternoon,Yes,5,No
+42,Non-binary,Pop,6.4,Night,No,4,No
+17,Non-binary,Jazz,2.7,Evening,No,2,No
+40,Male,Jazz,6.4,All Day,Yes,3,No
+39,Prefer not to say,Jazz,1.6,Morning,No,3,Yes
+55,Female,Pop,7.6,Night,Yes,4,No
+18,Female,R&B,7.9,Morning,Yes,5,No
+40,Non-binary,R&B,4.5,Morning,No,1,Yes
+18,Female,Classical,2.0,Evening,Yes,1,Yes
+17,Prefer not to say,Electronic,0.5,Morning,No,4,No
+55,Non-binary,R&B,7.6,All Day,Yes,2,No
+59,Female,Pop,4.8,Night,Yes,4,Yes
+44,Female,Hip-Hop,6.3,Afternoon,No,2,Yes
+22,Non-binary,Country,2.8,All Day,No,1,No
+15,Non-binary,R&B,0.8,Evening,No,2,No
+39,Female,Rock,3.5,All Day,No,4,No
+23,Female,R&B,4.5,All Day,No,5,No
+52,Male,Electronic,1.1,Afternoon,No,3,Yes
+42,Male,Pop,0.7,Evening,Yes,2,No
+42,Prefer not to say,Country,7.7,Evening,No,4,Yes
+35,Female,R&B,3.2,Afternoon,Yes,3,Yes
+57,Female,Rock,3.0,Afternoon,No,1,Yes
+42,Prefer not to say,Electronic,5.7,Morning,Yes,3,No
+50,Male,Rock,7.2,Morning,Yes,5,Yes
+56,Male,Pop,4.5,Morning,Yes,3,No
+28,Non-binary,Jazz,3.9,Evening,No,4,Yes
+45,Male,Rock,6.0,Afternoon,No,3,No
+50,Female,Country,7.1,All Day,No,2,Yes
+18,Female,Hip-Hop,3.1,Afternoon,Yes,5,Yes
+47,Non-binary,Hip-Hop,4.2,Morning,No,2,No
+26,Non-binary,Pop,0.8,Evening,Yes,4,No
+19,Non-binary,Pop,6.7,All Day,Yes,2,Yes
+16,Female,Jazz,6.3,Evening,No,2,No
+60,Non-binary,Electronic,7.2,Night,Yes,5,No
+47,Prefer not to say,Country,7.4,Afternoon,No,5,Yes
+59,Prefer not to say,Electronic,7.1,Afternoon,Yes,2,No
+30,Non-binary,Country,1.2,Morning,Yes,2,No
+21,Non-binary,Jazz,7.8,Night,Yes,4,Yes
+45,Non-binary,Hip-Hop,2.6,Night,Yes,4,Yes
+40,Prefer not to say,Rock,4.2,Evening,No,1,No
+32,Non-binary,Pop,5.5,Night,Yes,4,No
+38,Prefer not to say,R&B,3.9,Night,Yes,1,No
+42,Female,Hip-Hop,1.8,Morning,Yes,5,Yes
+41,Prefer not to say,Jazz,3.1,Morning,Yes,2,No
+25,Prefer not to say,Jazz,2.6,Afternoon,Yes,1,Yes
+52,Non-binary,Jazz,1.9,Evening,No,1,No
+49,Prefer not to say,Electronic,1.0,Night,No,5,No
+48,Prefer not to say,Electronic,4.1,Night,Yes,1,No
+27,Female,Classical,4.1,Afternoon,No,1,Yes
+18,Prefer not to say,R&B,5.5,Afternoon,Yes,1,No
+57,Female,Electronic,4.7,Evening,No,5,No
+28,Prefer not to say,Pop,4.8,Evening,Yes,5,Yes
+38,Prefer not to say,Pop,4.7,Afternoon,No,3,Yes
+18,Prefer not to say,Pop,2.8,Afternoon,Yes,3,No
+57,Female,Classical,6.5,Night,Yes,5,Yes
+24,Female,Pop,5.5,All Day,No,4,No
+22,Female,Electronic,3.8,Afternoon,No,2,Yes
+15,Female,Pop,5.3,Night,Yes,4,No
+23,Female,Country,2.8,Evening,Yes,2,Yes
+53,Prefer not to say,R&B,1.9,All Day,Yes,3,No
+46,Female,Electronic,4.2,Evening,No,3,Yes
+43,Female,R&B,7.9,Evening,No,5,Yes
+33,Female,Country,4.5,All Day,Yes,2,No
+17,Male,Pop,1.4,Afternoon,No,2,Yes
+59,Non-binary,Electronic,7.6,Evening,Yes,5,No
+44,Non-binary,Hip-Hop,1.6,Night,Yes,5,Yes
+56,Male,Pop,1.6,Afternoon,No,1,No
+47,Prefer not to say,R&B,1.1,Evening,Yes,2,No
+41,Male,Jazz,5.1,All Day,Yes,3,No
+38,Male,Pop,5.7,Night,Yes,3,No
+37,Non-binary,Classical,5.9,Evening,Yes,3,No
+34,Female,Country,4.0,Morning,No,1,Yes
+53,Non-binary,Classical,4.1,Night,No,1,No
+16,Male,R&B,2.9,All Day,Yes,5,No
+26,Male,R&B,7.2,Night,No,5,Yes
+50,Female,Rock,6.3,Morning,No,3,No
+34,Female,Classical,1.4,Night,Yes,1,No
+45,Non-binary,Country,1.1,Evening,No,2,No
+25,Male,Rock,2.3,All Day,No,1,No
+41,Non-binary,R&B,2.1,Evening,No,1,No
+46,Male,Electronic,4.7,Night,Yes,4,Yes
+52,Non-binary,Country,5.3,Evening,Yes,2,Yes
+56,Female,R&B,1.0,Evening,No,1,No
+58,Male,Country,2.7,Morning,No,1,Yes
+30,Non-binary,Hip-Hop,8.0,Afternoon,Yes,4,Yes
+27,Female,Hip-Hop,7.5,Afternoon,No,4,No
+16,Male,R&B,2.7,Morning,Yes,3,No
+53,Male,Country,3.9,Evening,No,1,Yes
+51,Male,Classical,7.8,All Day,No,3,No
+36,Non-binary,Country,8.0,Morning,Yes,5,No
+59,Male,Electronic,7.6,Evening,Yes,2,Yes
+56,Male,Electronic,3.9,Afternoon,Yes,1,Yes
+32,Male,Hip-Hop,5.8,Evening,No,5,No
+52,Female,Rock,1.7,All Day,Yes,2,Yes
+36,Prefer not to say,R&B,5.3,Evening,No,4,No
+51,Female,R&B,5.6,Evening,Yes,3,No
+37,Prefer not to say,Country,0.7,Afternoon,Yes,3,No
+49,Prefer not to say,Rock,6.6,Evening,Yes,3,Yes
+13,Male,Rock,6.6,Morning,Yes,1,Yes
+41,Female,Pop,7.3,Morning,No,2,Yes
+25,Female,Jazz,7.1,Afternoon,No,5,No
+18,Prefer not to say,Pop,7.1,All Day,No,1,No
+20,Prefer not to say,Jazz,4.9,Evening,Yes,2,No
+14,Male,Country,3.9,All Day,No,2,Yes
+52,Non-binary,Hip-Hop,2.3,Night,No,1,No
+32,Non-binary,Classical,1.1,Morning,No,5,Yes
+22,Non-binary,Jazz,4.3,All Day,Yes,4,Yes
+47,Female,Pop,7.4,Evening,No,1,No
+17,Prefer not to say,Pop,5.2,All Day,No,3,No
+57,Male,Country,2.2,Night,No,5,No
+42,Male,Country,1.3,All Day,Yes,4,Yes
+15,Non-binary,Jazz,8.0,All Day,No,2,Yes
+24,Female,Electronic,2.7,Night,Yes,1,No
+52,Female,Classical,7.0,All Day,No,2,Yes
+56,Non-binary,Classical,1.0,Morning,No,4,No
+26,Male,Jazz,1.7,All Day,Yes,4,No
+27,Male,Electronic,7.4,Evening,No,3,No
+35,Female,Electronic,5.8,All Day,Yes,5,No
+32,Non-binary,Pop,1.8,All Day,No,3,No
+50,Non-binary,R&B,2.6,Afternoon,No,2,No
+28,Non-binary,Classical,5.1,All Day,Yes,4,No
+24,Prefer not to say,Classical,7.9,Night,No,1,No
+32,Male,R&B,3.4,Night,Yes,4,No
+30,Female,Country,1.6,All Day,Yes,3,Yes
+47,Male,Classical,2.2,Night,Yes,2,No
+13,Prefer not to say,Country,4.5,Evening,Yes,4,Yes
+16,Male,R&B,7.8,Afternoon,No,4,No
+18,Male,Classical,3.5,All Day,No,1,No
+60,Prefer not to say,Electronic,6.9,All Day,Yes,3,No
+53,Male,Pop,1.9,Afternoon,Yes,2,Yes
+35,Non-binary,R&B,2.4,Night,No,3,No
+40,Non-binary,Jazz,4.9,Evening,No,5,Yes
+27,Prefer not to say,Hip-Hop,3.6,Evening,Yes,3,Yes
+54,Prefer not to say,Rock,2.0,Afternoon,Yes,1,No
+58,Non-binary,Classical,4.4,Afternoon,No,4,No
+38,Female,Pop,2.1,All Day,No,3,No
+39,Prefer not to say,Pop,7.6,Afternoon,No,2,Yes
+40,Prefer not to say,Jazz,2.9,Night,Yes,3,Yes
+22,Male,Classical,2.0,Evening,No,1,No
+32,Female,Electronic,3.5,Afternoon,No,2,No
+39,Prefer not to say,Rock,4.9,Morning,No,1,No
+55,Male,Hip-Hop,4.1,Morning,Yes,3,Yes
+42,Prefer not to say,Rock,1.8,Night,No,3,No
+46,Male,Country,1.3,All Day,No,2,Yes
+47,Prefer not to say,Electronic,6.3,Morning,No,1,Yes
+27,Prefer not to say,Classical,1.8,Evening,Yes,5,Yes
+13,Male,Hip-Hop,3.6,Night,No,1,No
+56,Female,Electronic,5.4,All Day,No,3,Yes
+47,Male,Pop,7.2,All Day,Yes,4,No
+38,Female,Rock,2.2,Morning,Yes,5,No
+49,Prefer not to say,Classical,5.4,Night,Yes,4,No
+14,Female,Jazz,2.5,All Day,No,4,No
+34,Non-binary,Pop,4.4,All Day,Yes,1,Yes
+43,Non-binary,Country,5.5,Evening,Yes,4,Yes
+59,Male,Rock,2.3,Morning,No,5,Yes
+53,Male,Electronic,2.9,Evening,Yes,3,Yes
+43,Non-binary,R&B,5.3,Night,Yes,4,No
+35,Non-binary,Hip-Hop,3.0,Morning,Yes,3,Yes
+58,Male,Classical,5.7,Afternoon,No,3,Yes
+26,Female,Pop,6.2,Night,No,1,Yes
+36,Non-binary,Rock,3.5,Evening,Yes,1,No
+54,Prefer not to say,Rock,1.7,Morning,No,3,Yes
+54,Prefer not to say,R&B,7.4,Afternoon,No,5,No
+47,Non-binary,Electronic,2.5,All Day,No,1,No
+37,Non-binary,Pop,5.0,Night,No,1,No
+60,Non-binary,Classical,7.5,Night,No,3,Yes
+47,Female,Electronic,4.9,Afternoon,Yes,3,Yes
+53,Male,Rock,5.4,Morning,No,3,No
+60,Female,Electronic,5.2,Afternoon,No,2,Yes
+50,Non-binary,Country,2.0,Morning,Yes,5,No
+50,Female,Hip-Hop,4.2,Morning,Yes,3,No
+34,Male,Classical,3.8,Afternoon,No,1,Yes
+17,Male,Jazz,4.4,Evening,Yes,3,No
+50,Female,Pop,5.6,Night,Yes,3,No
+19,Male,Country,7.2,Afternoon,No,2,No
+27,Female,Pop,7.3,All Day,Yes,4,Yes
+48,Female,Electronic,5.1,Night,Yes,2,No
+30,Male,Pop,2.3,All Day,Yes,3,Yes
+54,Female,Rock,5.4,All Day,Yes,5,Yes
+34,Female,Pop,4.8,Evening,No,2,No
+45,Non-binary,Jazz,2.8,Morning,Yes,2,No
+53,Prefer not to say,Rock,7.0,Night,No,3,No
+52,Non-binary,Hip-Hop,2.0,Evening,No,5,Yes
+26,Female,Rock,4.5,Night,Yes,4,Yes
+29,Non-binary,Pop,6.4,Night,No,4,No
+19,Non-binary,Country,1.8,Evening,No,1,No
+46,Prefer not to say,Electronic,1.6,Morning,No,4,Yes
+27,Female,Pop,0.8,Afternoon,No,5,No
+32,Prefer not to say,Country,6.4,Morning,No,1,Yes
+47,Male,Pop,7.6,All Day,Yes,2,No
+25,Prefer not to say,Jazz,3.2,All Day,Yes,5,Yes
+22,Non-binary,Hip-Hop,5.5,Morning,Yes,5,No
+15,Female,Country,6.5,All Day,No,2,Yes
+41,Male,Country,2.8,Afternoon,Yes,1,No
+14,Prefer not to say,Jazz,2.5,Night,Yes,5,No
+40,Male,R&B,5.3,Afternoon,No,1,Yes
+54,Prefer not to say,Classical,4.4,Evening,Yes,5,Yes
+56,Non-binary,Jazz,4.7,Evening,Yes,5,Yes
+26,Male,Pop,6.2,Night,Yes,3,No
+20,Female,R&B,1.3,All Day,Yes,3,No
+49,Male,R&B,5.3,Night,Yes,2,No
+46,Non-binary,Hip-Hop,3.9,Evening,No,1,No
+17,Prefer not to say,R&B,4.9,Afternoon,Yes,3,Yes
+29,Non-binary,Hip-Hop,7.1,All Day,Yes,5,No
+30,Prefer not to say,Electronic,2.0,All Day,Yes,3,No
+56,Non-binary,Classical,7.1,Afternoon,No,5,Yes
+46,Non-binary,R&B,2.7,All Day,Yes,1,No
+31,Male,Hip-Hop,4.3,Night,No,4,Yes
+55,Female,Electronic,2.1,Night,Yes,5,Yes
+25,Non-binary,Electronic,7.2,Morning,No,2,Yes
+26,Female,Hip-Hop,2.1,All Day,No,3,Yes
+36,Non-binary,R&B,1.0,All Day,Yes,3,No
+32,Prefer not to say,R&B,4.9,Night,No,4,No
+46,Female,Classical,3.0,Night,Yes,2,Yes
+45,Female,Electronic,8.0,Afternoon,Yes,3,No
+14,Prefer not to say,Electronic,0.9,Morning,Yes,1,Yes
+58,Prefer not to say,Classical,5.1,Night,No,1,No
+13,Female,Hip-Hop,2.3,Evening,Yes,1,No
+16,Non-binary,Rock,1.0,Afternoon,Yes,3,No
+51,Female,Electronic,2.6,Morning,Yes,5,Yes
+34,Female,R&B,4.2,Morning,Yes,4,Yes
+56,Male,Jazz,1.0,Morning,No,2,No
+51,Prefer not to say,R&B,6.4,Morning,No,5,Yes
+53,Male,Country,6.9,Morning,No,2,Yes
+43,Non-binary,Pop,4.8,Evening,No,2,Yes
+56,Non-binary,R&B,4.2,All Day,No,5,No
+39,Male,Hip-Hop,6.2,All Day,Yes,2,Yes
+24,Non-binary,Classical,7.5,Night,No,4,No
+26,Male,Electronic,4.4,Evening,Yes,1,No
+27,Non-binary,Rock,7.2,All Day,No,5,No
+25,Male,Electronic,6.2,All Day,No,3,No
+46,Male,Hip-Hop,0.6,Evening,No,2,Yes
+45,Male,Classical,5.2,All Day,No,1,No
+31,Male,Hip-Hop,5.0,Morning,Yes,2,No
+30,Prefer not to say,Jazz,3.0,Evening,No,1,Yes
+57,Non-binary,R&B,6.0,Morning,Yes,1,Yes
